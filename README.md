@@ -1,5 +1,9 @@
 # Feature Learning
 
+Code released as part of the published paper: 
+
+Barbed, O. L., Chadebecq, F., Morlana, J., Montiel, J. M., & Murillo, A. C. (2022, December). SuperPoint features in endoscopy. In Imaging Systems for GI Endoscopy, and Graphs in Biomedical Image Analysis: First MICCAI Workshop, ISGIE 2022, and Fourth MICCAI Workshop, GRAIL 2022, Held in Conjunction with MICCAI 2022, Singapore, September 18, 2022, Proceedings (pp. 45-55). [Springer link](https://link.springer.com/chapter/10.1007/978-3-031-21083-9_5) [ArXiV link](https://arxiv.org/abs/2203.04302)
+
 This repository is a modified implementation of:
 
 DeTone, Daniel, Tomasz Malisiewicz, and Andrew Rabinovich. "Superpoint: Self-supervised interest point detection and description." *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*. 2018. [CVF Open Access Link](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w9/html/DeTone_SuperPoint_Self-Supervised_Interest_CVPR_2018_paper.html).
@@ -43,4 +47,4 @@ E-SuperPoint | E-SuperPoint+S
 
 ## Authors
 
-Developed by [Óscar León Barbed](https://github.com/leonbp), [Ana C. Murillo](https://github.com/anacmurillo) & [François Chadebecq](https://github.com/FChadebecq).
+Developed by [Óscar León Barbed](https://github.com/leonbp), [Ana C. Murillo](https://github.com/anacmurillo) & [François Chadebecq](https://github.com/FChadebecq), [Javier Morlana](https://github.com/jmorlana), José María Martínez Montiel.
